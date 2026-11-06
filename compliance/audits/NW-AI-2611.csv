@@ -1,0 +1,7 @@
+dataset_id,license,decision
+openai/gsm8k,mit,CLEARED
+HuggingFaceH4/ultrachat_200k,mit,CLEARED
+allenai/ai2_arc,cc-by-sa-4.0,ATTRIBUTION_REQUIRED
+allenai/c4,odc-by,ATTRIBUTION_REQUIRED
+tatsu-lab/alpaca,cc-by-nc-4.0,BLOCKED
+bigcode/the-stack,other,BLOCKED
